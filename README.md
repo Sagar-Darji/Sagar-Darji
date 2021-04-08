@@ -1,10 +1,27 @@
-### Hey there! I'm Sagar. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
-<p align="left"> <img   src="https://komarev.com/ghpvc/?username=Sagar-Darji" alt="adi10hero" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/logo.svg" width="300" height="100">
+</p>	
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
-<!--
-**Sagar-Darji/Sagar-Darji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Hey there👀! I'm Sagar. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/sagar-darji-7b7011165/">
+  <img align="left" alt="Sagar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Sagar-Darji.Sagar-Darji)
+
+<br />
+  
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@Sagar-Darji](Sagardarji85301@gmail.com);
+- 📝 [Resume]()
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sagar-Darji&show_icons=true&theme=gotham" alt="Sagar-Darji"/>
+
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
