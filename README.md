@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey there! I'm Sagar. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+<p align="left"> <img   src="https://komarev.com/ghpvc/?username=Sagar-Darji" alt="adi10hero" /> </p>
 
 <!--
 **Sagar-Darji/Sagar-Darji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
