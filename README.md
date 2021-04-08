@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sagar-Darji/Sagar-Darji/blob/main/logo.svg" width="300" height="100">
+  <img src="https://github.com/Sagar-Darji/Sagar-Darji/blob/main/my-logo.svg" width="300" height="100">
 </p>	
 <img src="https://github.com/Sagar-Darji/Sagar-Darji/blob/main/wave.svg" width="100%" height="150">
 
