@@ -4,10 +4,6 @@
 <img src="https://github.com/Sagar-Darji/Sagar-Darji/blob/main/wave.svg" width="100%" height="150">
 
 
-<a href="https://www.linkedin.com/in/sagar-darji-7b7011165/">
-  <img align="left" alt="Sagar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Sagar-Darji.Sagar-Darji)
 
 <br />
